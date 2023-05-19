@@ -11,12 +11,12 @@ Other projects:
 
 * [CheckHouse](https://www.checkallvistorias.com.br/): CEO (Chief Executive Officer) and QA (Quality Assurance)
 
-* [Chamleo]: QA (Quality Assurance)
+* [Chamleo](https://github.com/RGBBARROS): QA (Quality Assurance)
 
 🌱 I am currently studying/learning:
 * JavaScript (Udemy)
 * Python (Hashtag)
-*JavaScript (FBV)
+* JavaScript (FBV)
 
 Some tools I use in my daily life:
 

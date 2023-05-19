@@ -1,25 +1,30 @@
-# Olá, me chamo Roger Barros !  👋
-## Bem vindo ao meu perfil GitHub
+# Hello, my name is Roger Barros ! 👋
+## Welcome to my GitHub profile
 
 
 
 
 
-🔭 Atualmente estou trabalhando na SONAR TRADE em um projeto que visa melhorar a experiencia do Usuario no mercado financeiro.
-Nessa empresa atuo como PO e QA e tambem na melhora continua da experiencia do cliente final.
+🔭 I am currently working as QA (Quality Assurance) at [SONAR TRADE](https://sonartrade.com.br/) in a project that aims to improve the User's experience in the financial market.
 
-🌱 Atualmente estou aprendendo algumas coias como :
-* UX Research (Enap)
-* User Experience (FIAP)
-* UX Design Cubos Academy
+Other projects:
 
-Algumas ferramentas que uso no meu dia a dia:
+[CheckHouse](https://www.checkallvistorias.com.br/): CEO (Chief Executive Officer) and QA (Quality Assurance)
+Chamleo: QA (Quality Assurance)
+
+
+🌱 I am currently studying/learning:
+* JavaScript (Udemy)
+* Python (Hashtag)
+*JavaScript (FBV)
+
+Some tools I use in my daily life:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href="https://www.instagram.com/rogergbarros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,9 +34,9 @@ Algumas ferramentas que uso no meu dia a dia:
 </div>
 
 
-⚡ Curiosidade:
-Eu gosto muito de aprender coias novas ja passei por algumas empresas na minha vida, dentre elas:
+⚡ Curiosity:
+I really like learning new things and I've been through some companies in my life, among them:
 * Sonar Trade
 * Apple
 * UTI do micro
-* Defensoria pública de São Paulo
+* Public Defender of São Paulo

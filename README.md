@@ -10,8 +10,7 @@
 Other projects:
 
 [CheckHouse](https://www.checkallvistorias.com.br/): CEO (Chief Executive Officer) and QA (Quality Assurance)
-Chamleo: QA (Quality Assurance)
-
+[Chamleo]: QA (Quality Assurance)
 
 🌱 I am currently studying/learning:
 * JavaScript (Udemy)

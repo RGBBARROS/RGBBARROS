@@ -15,7 +15,7 @@ Other projects:
 
 🌱 I am currently studying/learning:
 * JavaScript (Udemy)
-* Python (Hashtag)
+* Python (Hashtag) => Data Science
 * JavaScript (FBV)
 
 Some tools I use in my daily life:

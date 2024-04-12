@@ -4,8 +4,7 @@
 
 
 
-
-🔭 I am currently working as QA (Quality Assurance) at [SONAR TRADE](https://sonartrade.com.br/) in a project that aims to improve the User's experience in the financial market.
+I currently work at Polybalas ( https://www.polybalas.com.br/) and act as Development Information Technology Manager
 
 Other projects:
 

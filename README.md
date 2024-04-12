@@ -9,6 +9,8 @@
 
 Other projects:
 
+* [Polybalas](https://www.polybalas.com.br/): Information technology and development manager
+
 * [CheckHouse](https://www.checkallvistorias.com.br/): CEO (Chief Executive Officer) and QA (Quality Assurance)
 
 * [Chamleo](https://github.com/RGBBARROS): QA (Quality Assurance)

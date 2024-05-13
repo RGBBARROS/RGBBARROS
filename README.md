@@ -17,12 +17,6 @@ Other projects:
 * Python => Data Science
 * MAchine learning (FBV)
 
-Some tools I use in my daily life:
-
-
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-
-
 ## Contacts:
 
 <div>

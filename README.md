@@ -12,8 +12,6 @@ Other projects:
 
 * [CheckHouse](https://www.checkallvistorias.com.br/): CEO (Chief Executive Officer) and QA (Quality Assurance)
 
-* [Chamleo](https://github.com/RGBBARROS): QA (Quality Assurance)
-
 🌱 I am currently studying/learning:
 * GEstão de projetos (FGV)
 * Python => Data Science
